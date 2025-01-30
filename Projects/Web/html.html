@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>My Website</title>
+        <link rel="icon" type="image/x-icon" href="osaka.webp">
+        <link rel="stylesheet" href="css.css">
+        <script src="javascript.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+        <h1 id="title">First Website</h1>
+        <nav id="toolbar">
+                <button class="button" onclick="window.open('https://fmhy.net', 'blank')">Fmhy</button>
+                <span style="margin: 10px;"></span>
+                <button class="button" onclick="window.open('https://hianime.to', 'blank')">H!Anime</button>
+                <span style="margin: 10px;"></span>
+                <button class="button" onclick="window.open('https://steamrip.com', 'blank')">SteamRip</button>
+        </nav>
+        <div id="characters">
+            <img class="image" src="osaka.webp" alt="osaka" height="50px" width="50px" margin="auto" onclick="window.open('https://myanimelist.net/character/183/Ayumu_Kasuga', 'blank')">
+            <hr>
+            <img class="image" src="E:\Khalyl\Photos\Pins\denji.jpg" alt="denji" height="50px" width="50px" margin="auto" onclick="window.open('https://myanimelist.net/character/170732/Denji', 'blank')">
+            <hr>
+            <img class="image" src="E:\Khalyl\Photos\Pins\ichigo.jpg" alt="ichigo" height="50px" width="50px" margin="auto" onclick="window.open('https://myanimelist.net/character/5/Ichigo_kurosaki', 'blank')">
+        </div>
+        <div id="fmhy">
+            <p class="fmhy">
+                <a title="Fmhy" href="https://fmhy.net" target="_blank">Fuckmediaheckyeah</a>
+                is a website that has a collection of safe sites/apps/programs to pirate stuff
+            </p>
+        </div>
+            <div id="Grade_table">
+            <table id="table">
+                <tr>
+                    <th>Module</th>
+                    <th>MidTerm</th>
+                    <th>FinalExam</th>
+                    <th>Grade</th>
+                </tr>
+                <tr>
+                    <td class="name">Algo</td>
+                    <td> <input type="number" inputmode="numeric" pattern="[0-9]*" class="MidTerm"> </td>
+                    <td> <input type="number" class="FinalExam"> </td>
+                    <td> <output></output> </td>
+                </tr>
+                <tr>
+                    <td class="name">Algebra</td>
+                    <td> <input type="number" class="MidTerm"> </td>
+                    <td> <input type="number" class="FinalExam"> </td>
+                </tr>
+                <tr>
+                    <td class="name">Analysis</td>
+                    <td> <input type="number" class="MidTerm"> </td>
+                    <td> <input type="number" class="FinalExam"> </td>
+                </tr>
+                <tr>
+                    <td class="name">Struct</td>
+                    <td> <input type="number" class="MidTerm"> </td>
+                    <td> <input type="number" class="FinalExam"> </td>
+                </tr>
+                <tr>
+                    <td class="name">Compasant</td>
+                    <td> <input type="number" class="MidTerm"> </td>
+                    <td> <input type="number" class="FinalExam"> </td>
+                </tr>
+                <tr>
+                    <td class="name">English</td>
+                    <td> <input type="number" class="MidTerm"> </td>
+                    <td> <input type="number" class="FinalExam"> </td>
+                </tr>
+            </table>
+            <br>
+            <button class="button" onclick="calculategrade()">Submit</button>
+        </div>
+    </body>
+</html>

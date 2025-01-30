@@ -1,0 +1,116 @@
+:root {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+@keyframes pulse{
+    50% {
+        transform: scale(1.1);
+    }
+}
+body {
+    background-color: #000000;
+    color: white ;
+}
+#title {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#fmhy {
+    padding-bottom: 10px;
+    display: flex;
+    border: 2px;
+    border-radius: 20px;
+    border-color: white;
+    .fmhy {
+        margin: auto;
+        border: 2px;
+        border-radius: 20px;
+    }
+}
+#toolbar{
+    background-color: rgb(27, 27, 27);
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.button {
+    border-radius: 20px;
+    border: 1px groove;
+    background-color: transparent;
+    -webkit-text-fill-color: #ffffff;
+}
+.button:hover {
+    background-color: #ffffff50;
+    cursor: pointer;
+}
+.MidTerm,.FinalExam {
+    background-color: transparent;
+    border: 1px;
+    -webkit-text-fill-color: #ffffff;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    height: 30px;
+}
+input[type="number"] {
+    -moz-appearance: textfield; /* Firefox */
+    appearance: textfield; /* Other modern browsers */
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+#characters {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    .image{
+        margin: 5px;
+        border-radius: 15px;
+        border: 2px solid #ffffff;
+    }
+    .image:hover{
+        animation: pulse 0.5s ease-in-out infinite;
+        filter: drop-shadow(0px 0px 20px #ffffff);
+        cursor: pointer;
+    }
+}
+
+#Grade_table{
+    display: flexbox;
+    padding: 15px;
+    margin: auto;
+    max-width: min-content;
+    max-height: min-content;
+    place-items: center;
+}
+#table, th, tr , td{
+    tr{
+        height: 10px;
+    }
+    th {
+        padding: 5px;
+    }
+    .input {
+        padding: 10px;
+        text-align: center;
+        width: 50px;
+    }
+    .name{
+        padding: 10px;
+    }
+    border: 2px solid white;
+    border-collapse: collapse;
+}
