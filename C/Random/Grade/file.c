@@ -72,4 +72,5 @@ int main() {
 
     printf("Thank you! Exiting the program.\n");
     return 0;
+
 }
