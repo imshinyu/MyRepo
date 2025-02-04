@@ -1,0 +1,9 @@
+module     exam      assessment   ef%     cc%      grade
+analyse    /         3.5          0.60    0.40     
+algebre    6         11           0.60    0.40     
+algo       14        16           0.60    0.40     
+struct     12        15.75        0.60    0.40     
+composant  12.5      19           0.60    0.40     
+english    /         X            1       0        
+francais   4         X            1       0        
+Final Grade  =
