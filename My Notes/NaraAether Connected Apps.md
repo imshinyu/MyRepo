@@ -1,0 +1,15 @@
+---
+Created: 2025-01-30T16:46
+---
+- [x] steam
+- [ ] hoyoverse
+- [x] facebook
+- [x] instagram
+- [ ] kurogames
+- [x] riot
+
+- [x] epic games
+- [x] discord
+- [x] gamebanana
+- [x] cs.rin.ru
+- [x] pinterest
