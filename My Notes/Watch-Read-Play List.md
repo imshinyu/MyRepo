@@ -7,7 +7,7 @@ Created: 2025-01-30T16:53
 - [ ] Azumanga Daiou
 - [ ] Bleach Cour 3
 - [ ] Blue Box
-- [ ] Boruto
+- [x] Boruto ✅ 2025-02-04
 - [x] Dandadan
 - [ ] Demon Slayer
 - [ ] Drifting Home
@@ -24,12 +24,9 @@ Created: 2025-01-30T16:53
 
 - [ ] Persona 5 Strikers
 - [ ] Final Fantasy 7 Remake
-- [ ] Dark Souls Remastered
 ### Manga
 
 - [ ] Kokou No Hito
 ### Movies/Shows
 
 - [ ] Squid Game S2
-
-[^1]: 
