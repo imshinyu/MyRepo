@@ -7,7 +7,6 @@ Created: 2025-01-30T16:46
 - [x] instagram
 - [ ] kurogames
 - [x] riot
-
 - [x] epic games
 - [x] discord
 - [x] gamebanana
