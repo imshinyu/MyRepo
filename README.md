@@ -1,3 +1,1 @@
 # Khalyl
-yo my nigga
-.,\/,
