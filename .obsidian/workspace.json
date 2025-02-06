@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "52b4291fdea55c16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6af28f91a9aec7cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12d22cf277ab5014",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0df9add33628914",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99bfa651888abc11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "afa7ae5d4b4fd9f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4f2e67a7d99aa7bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "8b3ece71b961d7d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e8ef98089895bc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f7d02daebcab717",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-02-04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-02-04"
+            }
+          },
+          {
+            "id": "32333ed7dbf51ca4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-02-04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-04"
+            }
+          },
+          {
+            "id": "12073896b6bb12fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "755942f50b48a4a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-02-04.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-04"
+            }
+          },
+          {
+            "id": "56193155d04d121a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "cf635fa226ed73a4",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d12139c079a632b0",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "vscode-editor:Create Code File": false,
+      "open-vscode:VSCode": false,
+      "terminal:Open terminal": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "6af28f91a9aec7cf",
+  "lastOpenFiles": [
+    "MyStuff/9raya/L1/Algebre/TD_Chapitre4_StructuresAlgébriques.pdf",
+    "MyStuff/9raya/L1/Algebre/Solution_TD_Chapitre4_fr.pdf",
+    "MyStuff/9raya/L1/Algebre/Chapitre4_StructuresAlgébriques_Algèbre1_24_25_Fr.pdf",
+    "MyStuff/9raya/L1/Algo/TD5_Pointeurs.pdf",
+    "MyStuff/9raya/L1/Algo/Cours_Pointeurs.fr.en.pdf",
+    "MyStuff/9raya/L1/Algo/Cours_Tableaux.pdf",
+    "MyStuff/9raya/L1/Algo/TD6_Tableaux.pdf",
+    "MyStuff/9raya/L1/Algo/TP6_Tableaux.pdf",
+    "MyStuff/9raya/L1/Algo/Cours_Chaine_de_caracteres.pdf",
+    "MyStuff/9raya/L1/Algo/TD7_Chaines.pdf",
+    "MyStuff/9raya/L1/Algo/TP7_Chaines.pdf",
+    "MyStuff/Electronic.md",
+    "MyStuff/My Notes/Watch-Read-Play List.md",
+    "MyStuff/My Notes/NaraAether Connected Apps.md",
+    "Untitled Kanban.md",
+    "MyStuff/README.md",
+    "conflict-files-obsidian-git.md",
+    "MyStuff/Coding/First Java/README.md",
+    "Untitled.md",
+    "MyStuff/Coding/Projects/Web/osaka.webp",
+    "myrepo/Coding/Projects/Web/osaka.webp",
+    "myrepo/Coding/First Java/README.md",
+    "MyStuff/9raya/well idk.md",
+    "Untitled Kanban 1.md",
+    "Notion/D A I L Y  P L A N N E R/Schedule/19-00.md",
+    "Notion/D A I L Y  P L A N N E R/Schedule/13-00.md",
+    "Notion/D A I L Y  P L A N N E R/Schedule/09-00.md",
+    "Notion/D A I L Y  P L A N N E R/Schedule/07-00.md",
+    "Notion/D A I L Y  P L A N N E R/Habit Tracker/Daily Habits.md",
+    "Notion/Things i need to do.md",
+    "Notion/Semester Grade.md",
+    "Notion/First Try.md",
+    "Notion/D A I L Y  P L A N N E R.md",
+    "Notion/Gym Companion/My Exercises/Bench Press - Bar.md",
+    "abs_-_pppgym_-_final4x.png",
+    "trcipes_ppgym_final4x.png",
+    "biceps_-_ppgym_-_final4x.png",
+    "Artbkoard_134x.png",
+    "Notion/D A I L Y  P L A N N E R/Schedule/17-00.md",
+    "Notion/D A I L Y  P L A N N E R/Schedule/20-00.md",
+    "Notion/D A I L Y  P L A N N E R/Schedule/06-00.md",
+    "Notion/D A I L Y  P L A N N E R/Schedule/22-00.md",
+    "Artboardk_154x.png",
+    "Artboarkd_164x.png",
+    "Artboard_k15_14x.png",
+    "Artboakxrd_124x.png",
+    "Untitled.canvas"
+  ]
+}
