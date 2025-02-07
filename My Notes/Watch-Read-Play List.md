@@ -6,7 +6,7 @@ Created: 2025-01-30T16:53
 - [ ] Alya Anime
 - [ ] Azumanga Daiou
 - [ ] Bleach Cour 3
-- [ ] Blue Box
+- [ ] Blue Box🏁 
 - [x] Boruto ✅ 2025-02-04
 - [x] Dandadan
 - [ ] Demon Slayer
@@ -30,3 +30,4 @@ Created: 2025-01-30T16:53
 ### Movies/Shows
 
 - [ ] Squid Game S2
+- [ ] invincible 🏁 
