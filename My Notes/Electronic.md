@@ -11,13 +11,19 @@ $$
 $$
 ### element deplacement:
 $$
-dl=dx+dy+dz
+\vec{dl}=dx\vec{i}+dy\vec{j}+dz\vec{k}
 $$
-### element surface:
+### element surface :
 $$
-dS=dx*dy \space || \space dy*dz \space || \space dx*dz
+in (OX,OY): \vec{dS}=dxdy\vec{k}
 $$
-### element volume:
+$$
+in (OX,OZ): \vec{dS}=dxdz\vec{j}
+$$
+$$
+in(OY,OZ)\vec{dS}=dydyz\vec{i}
+$$
+### element volume :
 $$
 dV=dx*dy*dz
 $$
