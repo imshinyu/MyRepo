@@ -1,39 +1,40 @@
+# Dictionary
 $$
 \Omega = population
 $$
 $$
-Fi=relative frequency
+f_i=relative frequency
 $$
 $$
-Ni=frequency
+n_i=frequency
 $$
 $$
-Fi^c= cumulative relative frequency
+f_i^c= cumulative relative frequency
 $$
 $$
-Ni^c= cumulative \space frequency
-$$
-$$
-Fi=Ni\div n
-$$
-$$
-Fi^c=Ni^c\div n
-$$$$
-Ni^c(ai)=ni(ai)+ni^c(ai-1)
+n_i^c= cumulative \space frequency
 $$
 $$
 Mo : val x \space that \space the \space biggest \space ni(fi)
 $$
-
 $$
-Me : Fi>=0.5 \space or \space N^c >=n/2
+Variance\space must\space  always\space be\space positive
 $$
+# Rules
 $$
-X=1/n E Ni.xi
-$$
-$$
-Variance must always be positive
+f_i=n_i\div n
 $$
 $$
-VarX=1/n E NiXi^2-(X)^2
+f_i^c=n_i^c\div n
+$$$$
+n_i^c(a_i)=n_i(a_i)+n_i^c(a_i-1)
+$$
+$$
+Me : f_i>=0.5 \space or \space N^c >=n/2
+$$
+$$
+\bar{X}=\frac{1}{n} \Upsigma n_i.x_i
+$$
+$$
+VarX=\frac{1}{n} \Upsigma n_ix_i^2-(\bar{X})^2
 $$

@@ -15,13 +15,13 @@ $$
 $$
 ### element surface :
 $$
-in (OX,OY): \vec{dS}=dxdy\vec{k}
+in \space (OX,OY): \vec{dS}=dxdy\vec{k}
 $$
 $$
-in (OX,OZ): \vec{dS}=dxdz\vec{j}
+in \space (OX,OZ): \vec{dS}=dxdz\vec{j}
 $$
 $$
-in(OY,OZ)\vec{dS}=dydyz\vec{i}
+in \space(OY,OZ)\vec{dS}=dydyz\vec{i}
 $$
 ### element volume :
 $$
