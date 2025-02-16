@@ -9,6 +9,9 @@ int main() {
         int coefficient[7] = {4, 3, 4, 3, 2, 1, 1};
         char *subject[7] = {"Algo", "Algebra", "Analysis", "Struct", "Component", "English", "French"};
         float m_exam[7] = {0}, f_exam[7] = {0}, weighted_score[7] = {0};
+        
+        printf("TP grade of Algo: ");
+        scanf("%f", &tp);
 
         for (int i = 0; i < 5; i++) {
             printf("Mid-term exam grade for %s: ", subject[i]);
@@ -19,9 +22,6 @@ int main() {
             printf("Final Exam grade for %s: ", subject[i]);
             scanf("%f", &f_exam[i]);
         }
-
-        printf("TP grade of Algo: ");
-        scanf("%f", &tp);
 
         for (int i = 0; i < 7; i++) {
             if (i == 0) { // Algo has TP grade
