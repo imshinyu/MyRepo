@@ -11,7 +11,7 @@ if s==1: #First Semester
     subject=["Algo","Analysis","Algebra","Struct","Composant","French","English"]
 
     for i in range(5):
-        m_exam[i]=float(input(f"Mid-term exam grade for {subject[i]}:"))
+        m_exam[i]=float(input("Mid-term exam grade for %s:" %subject[i]))
 
     for i in range(7):
         f_exam[i]=float(input(f"Final exam Grade for {subject[i]}:"))
