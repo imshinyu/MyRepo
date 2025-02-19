@@ -29,8 +29,8 @@ f_i^c=n_i^c\div n
 $$$$
 n_i^c(a_i)=n_i(a_i)+n_i^c(a_i-1)
 $$$$
-Mo=a+(b-a)*((n_2-n_1)/(n_2-n_1)+(n_2-n_3))
+Mo=a+(b-a)*\frac{(n_2-n_1)}{(n_2-n_1)+(n_2-n_3)}
 $$
 $$
-Mo E [a,b[
+Mo \in [a,b[
 $$
