@@ -28,13 +28,9 @@ $$
 f_i^c=n_i^c\div n
 $$$$
 n_i^c(a_i)=n_i(a_i)+n_i^c(a_i-1)
+$$$$
+Mo=a+(b-a)*((n_2-n_1)/(n_2-n_1)+(n_2-n_3))
 $$
 $$
-Me : f_i>=0.5 \space or \space N^c >=n/2
-$$
-$$
-\bar{X}=\frac{1}{n} \Upsigma n_i.x_i
-$$
-$$
-VarX=\frac{1}{n} \Upsigma n_ix_i^2-(\bar{X})^2
+Mo E [a,b[
 $$
