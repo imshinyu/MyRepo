@@ -28,9 +28,12 @@ int main(){
     int n;
     printf("enter the size small or equal than 100:");
     scanf("%d",&n);
-    while (n>100)
+    while (n>100 || n<0)
     {
-        printf("please enter a positive number:");
+        if(n>100) printf("enter a number smaller than 100:");
+        else{
+            printf("please enter a positive number:");
+        }
         scanf("%d",&n);
     }
     int T[n];
