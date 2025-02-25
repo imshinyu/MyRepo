@@ -36,34 +36,34 @@
 
 - [x] Episode 1: Midnight Madness ✅ 2025-02-23
 - [x] Episode 2: Ben 10,000 ✅ 2025-02-23
-- [ ] Episode 3: A Change of Face
-- [ ] Episode 4: Merry Christmas
-- [ ] Episode 5: Benwolf
-- [ ] Episode 6: Game Over
-- [ ] Episode 7: Super Alien Hero Buddy Adventures
-- [ ] Episode 8: Under Wraps
-- [ ] Episode 9: Monster Weather
-- [ ] Episode 10: The Unnaturals
-- [ ] Episode 11: The Visitor
-- [ ] Episode 12: The Return
-- [ ] Episode 13: Be Afraid of the Dark
+- [x] Episode 3: A Change of Face
+- [x] Episode 4: Merry Christmas
+- [x] Episode 5: Benwolf
+- [x] Episode 6: Game Over
+- [x] Episode 7: Super Alien Hero Buddy Adventures
+- [x] Episode 8: Under Wraps
+- [x] Episode 9: Monster Weather
+- [x] Episode 10: The Unnaturals
+- [x] Episode 11: The Visitor
+- [x] Episode 12: The Return
+- [x] Episode 13: Be Afraid of the Dark
 
 ### Season 4:
 
-- [ ] Episode 1: Perfect Day
-- [ ] Episode 2: Divided We Stand
-- [ ] Episode 3: Don’t Drink the Water
-- [ ] Episode 4: Big Fat Alien Wedding
-- [ ] Episode 5: Ben 4 Good Buddy
-- [ ] Episode 6: Ready to Rumble
-- [ ] Episode 7: Ken 10
-- [ ] Episode 8: Goodbye and Good Riddance (non canon)
-- [ ] Episode 9: Ben 10 vs. the Negative 10: Part 1
-- [ ] Episode 10: Ben 10 vs. the Negative 10: Part 2
+- [x] Episode 1: Perfect Day
+- [x] Episode 2: Divided We Stand
+- [x] Episode 3: Don’t Drink the Water
+- [x] Episode 4: Big Fat Alien Wedding
+- [x] Episode 5: Ben 4 Good Buddy
+- [x] Episode 6: Ready to Rumble
+- [x] Episode 7: Ken 10
+- [x] Episode 8: Goodbye and Good Riddance (non canon)
+- [x] Episode 9: Ben 10 vs. the Negative 10: Part 1
+- [x] Episode 10: Ben 10 vs. the Negative 10: Part 2
 
 ### Movies:
 
-- [ ] Ben 10: Secret of the Omnitrix
+- [x] Ben 10: Secret of the Omnitrix
 # Ben 10 Alien Force
 
 ### Season 1:
