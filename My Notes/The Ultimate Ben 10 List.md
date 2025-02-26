@@ -68,30 +68,30 @@
 
 ### Season 1:
 
-- [ ] Episode 1: Ben 10 Returns: Part 1
-- [ ] Episode 2: Ben 10 Returns: Part 2
-- [ ] Episode 3: Everybody Talks About the Weather
-- [ ] Episode 4: Kevin’s Big Score
-- [ ] Episode 5: All That Glitters
-- [ ] Episode 6: Pier Pressure
-- [ ] Episode 7: Max Out
-- [ ] Episode 8: Be-Knighted
-- [ ] Episode 9: What Are Little Girls Made Of?
-- [ ] Episode 10: The Gauntlet
-- [ ] Episode 11: Plumbers’ Helpers
-- [ ] Episode 12: Paradox
-- [ ] Episode 13: X = Ben + 2
+- [x] Episode 1: Ben 10 Returns: Part 1 ✅ 2025-02-26
+- [x] Episode 2: Ben 10 Returns: Part 2 ✅ 2025-02-26
+- [x] Episode 3: Everybody Talks About the Weather ✅ 2025-02-26
+- [x] Episode 4: Kevin’s Big Score ✅ 2025-02-26
+- [x] Episode 5: All That Glitters ✅ 2025-02-26
+- [x] Episode 6: Pier Pressure ✅ 2025-02-26
+- [x] Episode 7: Max Out ✅ 2025-02-26
+- [x] Episode 8: Be-Knighted ✅ 2025-02-26
+- [x] Episode 9: What Are Little Girls Made Of? ✅ 2025-02-26
+- [x] Episode 10: The Gauntlet ✅ 2025-02-26
+- [x] Episode 11: Plumbers’ Helpers ✅ 2025-02-26
+- [x] Episode 12: Paradox ✅ 2025-02-26
+- [x] Episode 13: X = Ben + 2 ✅ 2025-02-26
 
 ### Season 2:
 
-- [ ] Episode 1: Alone Together
-- [ ] Episode 2: Darkstar Rising
-- [ ] Episode 3: Good Copy, Bad Copy
-- [ ] Episode 4: Save the Last Dance
-- [ ] Episode 5: Undercover
+- [x] Episode 1: Alone Together ✅ 2025-02-26
+- [x] Episode 2: Darkstar Rising ✅ 2025-02-26
+- [x] Episode 3: Good Copy, Bad Copy ✅ 2025-02-26
+- [x] Episode 4: Save the Last Dance ✅ 2025-02-26
+- [x] Episode 5: Undercover ✅ 2025-02-26
 - [ ] Episode 6: Birds of a Feather
-- [ ] Episode 7: Grounded
-- [ ] Episode 8: Pet Project
+- [x] Episode 7: Grounded ✅ 2025-02-26
+- [x] Episode 8: Pet Project ✅ 2025-02-26
 - [ ] Episode 9: Unearthed
 - [ ] Episode 10: Voided
 - [ ] Episode 11: Inside Man
