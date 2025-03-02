@@ -89,63 +89,63 @@
 - [x] Episode 3: Good Copy, Bad Copy ✅ 2025-02-26
 - [x] Episode 4: Save the Last Dance ✅ 2025-02-26
 - [x] Episode 5: Undercover ✅ 2025-02-26
-- [ ] Episode 6: Birds of a Feather
+- [x] Episode 6: Birds of a Feather ✅ 2025-03-03
 - [x] Episode 7: Grounded ✅ 2025-02-26
 - [x] Episode 8: Pet Project ✅ 2025-02-26
-- [ ] Episode 9: Unearthed
-- [ ] Episode 10: Voided
-- [ ] Episode 11: Inside Man
-- [ ] Episode 12: War of the Worlds: Part 1
-- [ ] Episode 13: War of the Worlds: Part 2
+- [x] Episode 9: Unearthed ✅ 2025-03-03
+- [x] Episode 10: Voided ✅ 2025-03-03
+- [x] Episode 11: Inside Man ✅ 2025-03-03
+- [x] Episode 12: War of the Worlds: Part 1 ✅ 2025-03-03
+- [x] Episode 13: War of the Worlds: Part 2 ✅ 2025-03-03
 ### Season 3:
 
-- [ ] Episode 1: Vengeance of Vilgax: Part 1
-- [ ] Episode 2: Vengeance of Vilgax: Part 2
-- [ ] Episode 3: Inferno
-- [ ] Episode 4: Don’t Fear the Repo
-- [ ] Episode 5: Simple
-- [ ] Episode 6: Fool’s Gold
-- [ ] Episode 7: Singlehanded
-- [ ] Episode 8: If All Else Fails
-- [ ] Episode 9: In Charm’s Way
-- [ ] Episode 10: Trade Off
-- [ ] Episode 11: Ghost Town
-- [ ] Episode 12: Busy Box
-- [ ] Episode 13: Con of Rath
-- [ ] Episode 14: Primus
-- [ ] Episode 15: Above and Beyond
-- [ ] Episode 16: The Secret of Chromastone
-- [ ] Episode 17: Vendetta
-- [ ] Episode 18: Time Heals
-- [ ] Episode 19: The Final Battle: Part 1
-- [ ] Episode 20: The Final Battle: Part 2
+- [x] Episode 1: Vengeance of Vilgax: Part 1 ✅ 2025-03-03
+- [x] Episode 2: Vengeance of Vilgax: Part 2 ✅ 2025-03-03
+- [x] Episode 3: Inferno ✅ 2025-03-03
+- [x] Episode 4: Don’t Fear the Repo ✅ 2025-03-03
+- [x] Episode 5: Simple ✅ 2025-03-03
+- [x] Episode 6: Fool’s Gold ✅ 2025-03-03
+- [x] Episode 7: Singlehanded ✅ 2025-03-03
+- [x] Episode 8: If All Else Fails ✅ 2025-03-03
+- [x] Episode 9: In Charm’s Way ✅ 2025-03-03
+- [x] Episode 10: Trade Off ✅ 2025-03-03
+- [x] Episode 11: Ghost Town ✅ 2025-03-03
+- [x] Episode 12: Busy Box ✅ 2025-03-03
+- [x] Episode 13: Con of Rath ✅ 2025-03-03
+- [x] Episode 14: Primus ✅ 2025-03-03
+- [x] Episode 15: Above and Beyond ✅ 2025-03-03
+- [x] Episode 16: The Secret of Chromastone ✅ 2025-03-03
+- [x] Episode 17: Vendetta ✅ 2025-03-03
+- [x] Episode 18: Time Heals ✅ 2025-03-03
+- [x] Episode 19: The Final Battle: Part 1 ✅ 2025-03-03
+- [x] Episode 20: The Final Battle: Part 2 ✅ 2025-03-03
 # Ben 10 Ultimate Alien
 
 ### Season 1:
 
-- [ ] Episode 1: Fame
-- [ ] Episode 2: Duped
-- [ ] Episode 3: Hit ‘Em Where They Live
-- [ ] Episode 4: Video Games
-- [ ] Episode 5: Escape from Aggregor
-- [ ] Episode 6: Too Hot to Handle
-- [ ] Episode 7: Andreas’ Fault
-- [ ] Episode 8: Fused
-- [ ] Episode 9: Hero Time
-- [ ] Episode 10: Ultimate Aggregor
+- [x] Episode 1: Fame ✅ 2025-03-03
+- [x] Episode 2: Duped ✅ 2025-03-03
+- [x] Episode 3: Hit ‘Em Where They Live ✅ 2025-03-03
+- [x] Episode 4: Video Games ✅ 2025-03-03
+- [x] Episode 5: Escape from Aggregor ✅ 2025-03-03
+- [x] Episode 6: Too Hot to Handle ✅ 2025-03-03
+- [x] Episode 7: Andreas’ Fault ✅ 2025-03-03
+- [x] Episode 8: Fused ✅ 2025-03-03
+- [x] Episode 9: Hero Time ✅ 2025-03-03
+- [x] Episode 10: Ultimate Aggregor ✅ 2025-03-03
 
 ### Season 2:
 
-- [ ] Episode 1: Map of Infinity
-- [ ] Episode 2: Reflected Glory
-- [ ] Episode 3: Deep
-- [ ] Episode 4: Where the Magic Happens
-- [ ] Episode 5: Perplexahedron
-- [ ] Episode 6: The Forge of Creation
-- [ ] Episode 7: …Nor Iron Bars a Cage
-- [ ] Episode 8: The Enemy of My Enemy
-- [ ] Episode 9: Absolute Power: Part 1
-- [ ] Episode 10: Absolute Power: Part 2
+- [x] Episode 1: Map of Infinity ✅ 2025-03-03
+- [x] Episode 2: Reflected Glory ✅ 2025-03-03
+- [x] Episode 3: Deep ✅ 2025-03-03
+- [x] Episode 4: Where the Magic Happens ✅ 2025-03-03
+- [x] Episode 5: Perplexahedron ✅ 2025-03-03
+- [x] Episode 6: The Forge of Creation ✅ 2025-03-03
+- [x] Episode 7: …Nor Iron Bars a Cage ✅ 2025-03-03
+- [x] Episode 8: The Enemy of My Enemy ✅ 2025-03-03
+- [x] Episode 9: Absolute Power: Part 1 ✅ 2025-03-03
+- [x] Episode 10: Absolute Power: Part 2 ✅ 2025-03-03
 
 ### Season 3:
 
