@@ -12,3 +12,4 @@ Created: 2025-01-30T16:46
 - [x] gamebanana
 - [x] cs.rin.ru
 - [x] pinterest
+- [ ] myanimlist
