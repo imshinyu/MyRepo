@@ -13,4 +13,5 @@ int main () {
     if(b==c) *a=5; 
     else *a=6; 
     printf("*a = % d \n",*a);
+    return 0;
 }
